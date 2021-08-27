@@ -10,7 +10,6 @@ namespace WordProcessorLayoutAPISample
 {
     class Program
     {
-        //Layout API - How to perform page-based operations: get page text, page number and page count in a document, search for text on a specific page
         static void Main(string[] args)
         {
             using (RichEditDocumentServer rtfProcessor = new RichEditDocumentServer())
