@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WordProcessorLayoutAPISample", "WordProcessorLayoutAPISample\WordProcessorLayoutAPISample.vbproj", "{3DA1086C-7DF7-42A8-9517-3B39C488E41F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA1086C-7DF7-42A8-9517-3B39C488E41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA1086C-7DF7-42A8-9517-3B39C488E41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA1086C-7DF7-42A8-9517-3B39C488E41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA1086C-7DF7-42A8-9517-3B39C488E41F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF41B83-E85A-4BCD-947F-A6FF564AA022}
+	EndGlobalSection
+EndGlobal
