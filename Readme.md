@@ -10,4 +10,4 @@ This example demonstrates how to perform operations with a document layout using
 *Files to look at*:
 
 * [Program.cs](./CS/WordProcessorLayoutAPISample/Program.cs)
-* [Program.vb](./CS/LayoutAPISample/Program.vb)
+* [Program.vb](./VB/LayoutAPISample/Program.vb)
