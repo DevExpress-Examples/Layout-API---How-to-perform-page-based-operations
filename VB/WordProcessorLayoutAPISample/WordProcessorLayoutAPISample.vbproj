@@ -1,16 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <OptionExplicit>On</OptionExplicit>
-    <OptionCompare>Binary</OptionCompare>
-    <OptionStrict>Off</OptionStrict>
-    <OptionInfer>On</OptionInfer>
-    <RootNamespace />
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Document.Processor" Version="21.1.5" />
+    <PackageReference Include="DevExpress.Document.Processor" Version="21.1.7" />
   </ItemGroup>
   <ItemGroup>
     <None Update="FirstLook.docx">
