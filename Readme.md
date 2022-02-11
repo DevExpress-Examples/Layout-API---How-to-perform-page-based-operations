@@ -5,9 +5,15 @@
 <!-- default badges end -->
 # Word Processing Document API - Use the Layout API to Access Document Pages and Execute Operations with Them
 
-This example demonstrates how to perform operations with a document layout using the Word Processing Document API library. Use the [RichEditDocumentServer.DocumentLayout](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraRichEdit.API.Layout.DocumentLayout) property as an entry point to the Layout API.
+The **Layout API** library contains objects, properties and methods that allow you to access document layout elements. The Layout API is available for the [Word Processing Document API](https://docs.devexpress.com/OfficeFileAPI/17488/word-processing-document-api) non-visual library. Use the [RichEditDocumentServer.DocumentLayout](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraRichEdit.API.Layout.DocumentLayout) property to access the Layout API.
 
-*Files to look at*:
+This example demonstrates how to use the Layout API to execute the following actions:
 
-* [Program.cs](./CS/WordProcessorLayoutAPISample/Program.cs)
-* [Program.vb](./VB/LayoutAPISample/Program.vb)
+- Extract text from a specific document page
+- Calculate page count in a document
+- Obtain page number based on a document position
+- Search for text on a specific document page
+
+## Files to Look At
+
+[Program.cs](./CS/WordProcessorLayoutAPISample/Program.cs) (VB: [Program.vb](./VB/LayoutAPISample/Program.vb))
