@@ -15,6 +15,9 @@ This example demonstrates how to use the Layout API to execute the following act
 - Obtain the page number based on the document position
 - Search for text on a specific document page
 
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page. 
+
 ## Files to Look At
 
 [Program.cs](./CS/WordProcessorLayoutAPISample/Program.cs) (VB: [Program.vb](./VB/LayoutAPISample/Program.vb))
