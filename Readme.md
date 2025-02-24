@@ -20,7 +20,7 @@ This example demonstrates how to use the Layout API to execute the following act
 
 ## Files to Look At
 
-[Program.cs](./CS/WordProcessorLayoutAPISample/Program.cs) (VB: [Program.vb](./VB/LayoutAPISample/Program.vb))
+[Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
